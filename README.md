@@ -1,1 +1,1 @@
-# seala-project
+# sela-project
